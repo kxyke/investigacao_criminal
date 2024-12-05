@@ -1,0 +1,9 @@
+?- analisar.
+Bem-vindo ao Sistema de Investigação Criminal!
+Há evidência de impressao_digital? (sim/nao): sim
+Há evidência de testemunha_ocular? (sim/nao): nao
+Há evidência de motivo_financeiro? (sim/nao): sim
+
+Suspeito identificado: jose
+
+Desenvolvido por: [Kayke de Souza]
