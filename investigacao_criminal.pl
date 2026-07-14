@@ -1,6 +1,6 @@
 % investigacao_criminal.pl
 % Sistema Especialista para Análise de Casos Criminais
-% Desenvolvido por: [Seu Nome Aqui]
+% Desenvolvido por: Kayke de Souza
 
 % Base de Conhecimento
 evidencia(impressao_digital).
@@ -30,7 +30,7 @@ analisar :-
     ;
         write('Não foi possível identificar um suspeito com as evidências fornecidas.'), nl
     ),
-    write('Desenvolvido por: [Seu Nome Aqui]').
+    write('Desenvolvido por: Kayke de Souza').
 
 % Pergunta sobre evidências
 perguntar(Evidencia) :-
